@@ -29,9 +29,9 @@ $(function (){
 
 
 	interface StorageData{
-		userName: String;
-		userEmail: String;
-		userPass : String;
+		userName: string;
+		userEmail: string;
+		userPass : string;
 		userAvatar: number;
 	};
 
